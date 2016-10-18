@@ -26,5 +26,49 @@ footer .social-icons ul li {
 
 footer .social-icons ul li a {
     text-decoration: none;
-    color: #000;
+    color: deepskyblue;
 }
+
+a .email {
+    unicode-bidi:bidi-override; 
+    direction: rtl;
+}
+
+a .resume {
+    fill: deepskyblue;
+}
+
+<style>
+.pdfobject-container {
+    height: 1200px !important;
+    width: 800px !important;
+}
+.pdfobject { 
+    border: 1px solid #666; 
+    height: 1100px !important;
+    width: 800px !important;
+}
+table td {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+table td {
+    border-top: 2px solid #ecf0f1;
+}
+svg.bqplot {
+    position: relative;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+button.jupyter-widgets {
+    position: relative;
+    left: 30%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+</style>
