@@ -57,7 +57,7 @@ table td {
 table td {
     border-top: 2px solid #ecf0f1;
 }
-svg.bqplot {
+.bqplot.figure {
     position: relative;
     left: 50%;
     -webkit-transform: translateX(-50%);
