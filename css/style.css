@@ -57,6 +57,15 @@ table td {
 table td {
     border-top: 2px solid #ecf0f1;
 }
+.intro {
+    margin: 0 10px 0 0px;
+    text-align: justify;
+    width: 75%;
+    font-size: 16px;
+}
+.introimg {
+    max-width: 20%;
+}
 .bqplot.figure {
     position: relative;
     left: 40%;
