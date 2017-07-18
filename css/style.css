@@ -60,11 +60,11 @@ table td {
 .intro {
     margin: 0 10px 0 0px;
     text-align: justify;
-    width: 75%;
+    width: 65%;
     font-size: 16px;
 }
 .introimg {
-    max-width: 20%;
+    max-width: 27%;
 }
 .bqplot.figure {
     position: relative;
