@@ -4,7 +4,7 @@ footer {
     width: 100%;
     padding-top: 20px;
     padding-bottom: 20px;
-    padding-right: 15px;
+    padding-right: 17px;
 }
 
 footer p {
@@ -30,7 +30,7 @@ footer .social-icons ul li a {
 }
 
 a .email {
-    unicode-bidi:bidi-override; 
+    unicode-bidi:bidi-override;
     direction: rtl;
 }
 
@@ -43,8 +43,8 @@ a .resume {
     height: 1200px !important;
     width: 800px !important;
 }
-.pdfobject { 
-    border: 1px solid #666; 
+.pdfobject {
+    border: 1px solid #666;
     height: 1100px !important;
     width: 800px !important;
 }
